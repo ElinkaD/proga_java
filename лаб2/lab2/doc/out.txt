@@ -1,0 +1,117 @@
+Dedenne Олег from the team Black enters the battle!
+Starly Victor from the team Greren enters the battle!
+Dedenne Олег использует Charge Beam. 
+Starly Victor loses 15 hit points.
+Starly Victor faints.
+Staravia Evgeniy from the team Greren enters the battle!
+Dedenne Олег использует Take Down. 
+Staravia Evgeniy loses 7 hit points.
+Dedenne Олег loses 1 hit points.
+
+Staravia Evgeniy использует Crunch. 
+Dedenne Олег loses 2 hit points.
+
+Dedenne Олег использует Nasty Plot. 
+Dedenne Олег increases special attack.
+
+Staravia Evgeniy использует Confide. 
+Dedenne Олег decreases special attack.
+
+Dedenne Олег использует Astonish. 
+Staravia Evgeniy loses 1 hit points.
+Staravia Evgeniy isn't affected by GHOST
+
+Staravia Evgeniy misses
+
+Dedenne Олег использует Nasty Plot. 
+Dedenne Олег increases special attack.
+
+Staravia Evgeniy использует Crunch. 
+Dedenne Олег loses 2 hit points.
+
+Dedenne Олег использует Astonish. 
+Staravia Evgeniy loses 1 hit points.
+Staravia Evgeniy isn't affected by GHOST
+
+Staravia Evgeniy misses
+
+Dedenne Олег использует Astonish. 
+Staravia Evgeniy loses 1 hit points.
+Staravia Evgeniy isn't affected by GHOST
+
+Staravia Evgeniy misses
+
+Dedenne Олег использует Nasty Plot. 
+Dedenne Олег increases special attack.
+
+Staravia Evgeniy использует Crunch. 
+Dedenne Олег loses 2 hit points.
+
+Dedenne Олег использует Astonish. 
+Staravia Evgeniy loses 1 hit points.
+Staravia Evgeniy isn't affected by GHOST
+
+Staravia Evgeniy misses
+
+Dedenne Олег использует Nasty Plot. 
+Dedenne Олег increases special attack.
+
+Staravia Evgeniy misses
+
+Dedenne Олег использует Astonish. 
+Staravia Evgeniy loses 1 hit points.
+Staravia Evgeniy isn't affected by GHOST
+
+Staravia Evgeniy использует Crunch. 
+Dedenne Олег loses 3 hit points.
+
+Dedenne Олег использует Take Down. 
+Staravia Evgeniy loses 9 hit points.
+Dedenne Олег loses 2 hit points.
+Staravia Evgeniy faints.
+Staraptor Anton from the team Greren enters the battle!
+Dedenne Олег использует Nasty Plot. 
+Dedenne Олег increases special attack.
+
+Staraptor Anton использует Crunch. 
+Dedenne Олег loses 4 hit points.
+
+Dedenne Олег использует Take Down. 
+Staraptor Anton loses 7 hit points.
+Dedenne Олег loses 1 hit points.
+
+Staraptor Anton использует Supersonic. 
+
+Dedenne Олег hits himself in confusion. 
+Dedenne Олег loses 5 hit points.
+Dedenne Олег faints.
+Claydol Кирилл from the team Black enters the battle!
+Staraptor Anton misses
+
+Claydol Кирилл misses
+
+Staraptor Anton misses
+
+Claydol Кирилл использует Submission. 
+Staraptor Anton loses 3 hit points.
+
+Staraptor Anton использует Confide. 
+Claydol Кирилл decreases special attack.
+
+Claydol Кирилл использует Facade. 
+Staraptor Anton loses 3 hit points.
+
+Staraptor Anton использует Supersonic. 
+
+Claydol Кирилл использует Facade. 
+Staraptor Anton loses 5 hit points.
+
+Staraptor Anton использует Confide. 
+Claydol Кирилл decreases special attack.
+
+Claydol Кирилл использует Submission. 
+Staraptor Anton loses 4 hit points.
+Claydol Кирилл loses 1 hit points.
+Staraptor Anton faints.
+Team Greren loses its last Pokemon.
+The team Black wins the battle!
