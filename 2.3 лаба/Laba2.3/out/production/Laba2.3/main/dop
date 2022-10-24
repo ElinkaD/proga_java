@@ -1,0 +1,46 @@
+public void Insert(T x, int p){ //
+        if(p < last || p >= 0){ //перемещение элементов с позиции p на p+1
+            for(int i = last; i != p-1; i--){
+               L[i+1] = L[i];
+            }
+            L[p] = x;
+        }
+        L[p] = x;
+        last++;
+    }
+
+
+    public void Delete(int p){ //удаляет эелемент в позиции р списка L.
+            if(p < last){
+                for(int i = p; i < last; i++){ //перенос элементов с p+1, на одну позицию к началу
+                    L[i] = L[i+1];
+                }
+                last --;
+            }
+
+        }
+
+        public void Delete(int p){ //удаляет эелемент в позиции р списка L.
+                if(p >= End() || p<0){
+                    return;
+                }
+                while (p != last){
+                    L[p] = L[++p];
+                }
+                last--;
+            }
+
+            return a/q + " " +  (a - ((a/q)*q)) + "/" + q;
+
+            Rational(int a1, int q1) throws ArithmeticException{ // конструктор
+                    if(q1 == 0){
+                        throw new ArithmeticException("Знаменатеь равен 0");
+                    }
+                    if(q1 < 0){
+                        a1 = -a1;
+                        q1 = -q1;
+                    }
+                    int NOD = Math.abs(nod(a1,q1));  //для сокращения дроби
+                    a = a1/NOD;
+                    q = q1/NOD;
+                }
